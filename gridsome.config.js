@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'Gridsome Minimal Blog Starter',
-  siteUrl: 'https://dyslexicdcuk.github.io/',
+  siteUrl: 'https://damirsehic.netlify.io/',
   siteDescription: 'A minimalist blog built with Gridsome',
   plugins: [
     {
